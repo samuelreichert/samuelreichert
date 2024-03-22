@@ -11,10 +11,10 @@
 ### 🌐 The tech that I love to work with
 - Typescript
 - Javascript / Node
-- Ruby
-- React
+- React / React Native
 - Next.js
 - Jest & Cypress & React testing library
+- Ruby / Ruby on Rails
 
 ### 📫 How to reach me:
 
